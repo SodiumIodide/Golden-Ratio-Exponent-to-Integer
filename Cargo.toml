@@ -1,0 +1,8 @@
+[package]
+name = "goldenratio"
+version = "0.1.0"
+authors = ["SodiumIodide <corey.s@gmx.us>"]
+
+[dependencies]
+gnuplot = "*"
+argparse-rs = "*"
