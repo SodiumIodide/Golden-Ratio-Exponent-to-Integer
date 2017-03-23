@@ -1,6 +1,6 @@
 # Golden Ratio Exponent to Integer
 
-The Golden Ratio, when taken to an integral power, tends to be very close to an integer value. This was something that I had to test for myself. As quoted by Terry Tao in his overview of the work of Yves Meyer (I don't think GitHub renders LaTeX in their Markdown, so bear with me):
+The [Golden Ratio](https://en.wikipedia.org/wiki/Golden_ratio), when taken to an integral power, tends to be very close to an integer value. This was something that I had to test for myself. As quoted by Terry Tao in his overview of the work of Yves Meyer (I don't think GitHub renders LaTeX in their Markdown, so bear with me):
 
 > The powers `\phi, \phi^2, \phi^3, ...` of the golden ratio lie unexpectedly close to integers: for instance, `\phi^{11} = 199.005...` is unusually close to 199.
 
